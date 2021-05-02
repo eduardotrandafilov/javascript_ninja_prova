@@ -1,0 +1,60 @@
+.col1 {
+  margin-right: 200px;
+}
+
+.customButtonNumbers {
+  width: 2rem;
+  height: 2rem;
+  margin: 3px;
+  background: #ADC0C4 0% 0% no-repeat padding-box;
+  opacity: 1;
+  color: #FFFFFF;
+
+}
+
+.bg-color1 {
+  background-color: #F7F7F7;
+}
+
+.customButtonTypeGame {
+  border-radius: 100px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+}
+
+.customButtonGameActions {
+  border: 1px solid #27C383;
+  border-radius: 10px;
+  opacity: 1;
+  text-align: left;
+  color: #27C383;
+}
+
+.customButtonAddCart {
+  top: 775px;
+  left: 596px;
+  width: 209px;
+  height: 52px;
+  background: #27C383 0% 0% no-repeat padding-box;
+  border: 1px solid #27C383;
+  border-radius: 10px;
+  opacity: 1;
+  color: #FFFFFF
+}
+
+.customButtonSave {
+  background: #F4F4F4 0% 0% no-repeat padding-box;
+  border: 1px solid #E2E2E2;
+  opacity: 1;
+  color: #27C383;
+}
+
+footer {
+  position: fixed;
+}
+
+@media screen and (max-width: 992px) {
+  footer {
+    position: relative;
+
+  }
+}
